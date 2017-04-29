@@ -42,7 +42,7 @@ Install `now` CLI via `npm`:
 npm i -g now
 ```
 
-After that login into [zeit.co](zeit.co) and obtain token.
+After that login into [zeit.co](https://zeit.co) and obtain token.
 
 Then change directory into `dist` and invoke following command:
 
