@@ -37,7 +37,12 @@ ng build --target=production
 
 # Deploy to ZEIT
 
-First login into [zeit.co](zeit.co) and obtain token.
+Install `now` CLI via `npm`:
+```bash
+npm i -g now
+```
+
+After that login into [zeit.co](zeit.co) and obtain token.
 
 Then change directory into `dist` and invoke following command:
 
